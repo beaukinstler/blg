@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+Blg Blog
 ---
 
 # Under construction
